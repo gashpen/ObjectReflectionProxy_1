@@ -1,7 +1,7 @@
 /* eslint-disable no-undef */
 /* eslint-disable guard-for-in */
 // eslint-disable-next-line no-unused-vars
-function sortObj(obj, arr) {
+function orderByProps(obj, arr) {
   const firstArr = [];
   const secondArr = [];
 
