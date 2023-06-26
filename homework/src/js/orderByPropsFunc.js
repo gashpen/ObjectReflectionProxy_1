@@ -19,3 +19,5 @@ function orderByProps(obj, arr) {
 
   return firstArr.concat(secondArr);
 }
+
+export default orderByProps;
